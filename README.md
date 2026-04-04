@@ -1,18 +1,29 @@
-# python-practice
-Collection of Python practice programs covering fundamentals, problem-solving, and concepts like recursion, OOP, and data structures.
+# 🐍 Python Practice Repository
 
+A collection of Python programs covering core concepts, problem-solving, and real-world examples.
 
+## 📂 Topics Covered
 
-# Python Practice Repository 🚀
+- Basics (variables, data types)
+- Functions
+- Loops
+- Recursion
+- Lambda functions
+- Decorators
 
-This repository contains my structured Python learning journey:
+## 🔥 Highlight
 
-## Topics Covered
-- Basics
-- Control Flow
-- Functions (Closures, Recursion, Keyword Args)
-- Data Structures
-- Problem Solving
+### Decorators
+- Basic decorator
+- Decorator with arguments
+- Real-world timing decorator
 
-## Goal
-To master Python for Data Engineering & Analytics roles.
+📁 File: `functions/decorators.py`
+
+## 🚀 Goal
+
+This repository is part of my journey to strengthen Python fundamentals and problem-solving skills.
+
+---
+
+👨‍💻 Maintained by Mustafa Quraishi
