@@ -1,11 +1,15 @@
 # decorators.py
+# we are trying to learn about decorators in Python. 
+# Decorators are a powerful and flexible way to modify the behavior of functions 
+# or classes without changing their source code. 
+# They allow you to wrap another function in order to extend its behavior.
 
 # Basic decorator example
 def my_decorator(func):
     def wrapper():
         print("Something before the function runs")
         func()
-        print("Something after the function runs")
+        print("Something after the function runs  ")
     return wrapper
 
 
