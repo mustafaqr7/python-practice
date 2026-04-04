@@ -26,4 +26,4 @@ This repository is part of my journey to strengthen Python fundamentals and prob
 
 ---
 
-👨‍💻 Maintained by Mustafa Quraishi
+👨‍💻 Maintained by Mustafa Quraishi _
