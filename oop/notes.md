@@ -22,3 +22,18 @@ class Student:
     def __init__(self, name, age):
         self.name = name
         self.age = age
+
+
+## Encapsulation Summary
+
+Encapsulation = Data Hiding + Controlled Access
+
+Types:
+- Public
+- Protected (_)
+- Private (__)
+
+Key:
+- Use private variables
+- Access via methods (get/set)
+- Add validation logic
