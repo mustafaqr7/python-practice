@@ -4,12 +4,10 @@ class Animal:
 
 
 class Dog(Animal):
-    def speak(self):   # overriding parent method
+    def speak(self):
+        super().speak()   # call parent method
         print("Dog barks")
 
 
-a = Animal()
 d = Dog()
-
-a.speak()
 d.speak()
